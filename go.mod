@@ -1,4 +1,4 @@
-module discordgo
+module github.com/lffspaniol/discordgo
 
 go 1.17
 
